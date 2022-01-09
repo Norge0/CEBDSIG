@@ -1,5 +1,5 @@
-<B>CEBDSIG<br>
-##Trabalho prático – Relatório e Apresentação</B><br>
+<B>CEBDSIG</B><br>
+Trabalho prático – Relatório e Apresentação</B><br>
 # Normalização de Base Dados Relacional
 Unidade curricular - <B>Criação e Estruturação de Bases de Dados em SIG</B> 2021/22<br>
 Mestrado em Sistemas de Informação Geográfica e Modelação Territorial Aplicados ao Ordenamento<br>
@@ -8,4 +8,5 @@ UL - Universidade de Lisboa<br>
 <p></p>
 https://github.com/Norge0/CEBDSIG
 <p></p>
+Esquema Relacional
 <img src="relacoes1_n_imagem.png" alt="image" width="" height="500">
