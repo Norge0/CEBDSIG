@@ -6,8 +6,6 @@ Mestrado em Sistemas de Informação Geográfica e Modelação Territorial Aplic
 IGOT - Instituto de Geografia e Ordenamento do Território<br>
 UL - Universidade de Lisboa<br>
 <p></p>
-https://norge0.github.io/CEBDSIG/
+https://github.com/Norge0/CEBDSIG
 <p></p>
-<img src="trab2_presentation1.png" alt="image" width="" height="500">
-<p></p>
-<img src="trab2_presentation2.png" alt="image" width="" height="500">
+<img src="relacoes1_n_imagem.png" alt="image" width="" height="500">
