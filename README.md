@@ -9,4 +9,4 @@ UL - Universidade de Lisboa<br>
 https://github.com/Norge0/CEBDSIG
 <p></p>
 <B>Esquema Relacional</B>
-<img src="relacoes_1_n_imagem.png" alt="image" width="" height="500">
+<img src="relacoes_1_n.png" alt="image" width="" height="500">
