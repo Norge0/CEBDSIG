@@ -1,6 +1,6 @@
 <B>CEBDSIG<br>
-Trabalho prático – Relatório e apresentação</B><br>
-# Normalização de base dados relacional
+##Trabalho prático – Relatório e Apresentação</B><br>
+# Normalização de Base Dados Relacional
 Unidade curricular - <B>Criação e Estruturação de Bases de Dados em SIG</B> 2021/22<br>
 Mestrado em Sistemas de Informação Geográfica e Modelação Territorial Aplicados ao Ordenamento<br>
 IGOT - Instituto de Geografia e Ordenamento do Território<br>
