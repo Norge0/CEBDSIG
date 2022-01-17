@@ -8,6 +8,6 @@ UL - Universidade de Lisboa<br>
 <p></p>
 https://github.com/Norge0/CEBDSIG
 <p></p>
-Ficheiro Access: TrabPratico_Database.accdb<br>
+Ficheiro da BDR em Access: TrabPratico_Database.accdb<br>
 <B>Esquema Relacional</B>
 <img src="relacoes_1_n.png" alt="image" width="" height="500">
