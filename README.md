@@ -8,6 +8,7 @@ UL - Universidade de Lisboa<br>
 <p></p>
 https://github.com/Norge0/CEBDSIG
 <br>
+Ficheiro Relatório PDF: Relatório_CEBDSIG 2021-22.pdf<br>
 Ficheiro da BDR em Access: TrabPratico_Database.accdb<br>
 <p></p>
 <B>Esquema Relacional</B>
